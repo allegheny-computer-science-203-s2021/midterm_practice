@@ -1,4 +1,4 @@
-# CMPSC 203 Midterm Sample Questions and Answers
+# CMPSC 203 Midterm Sample Questions
 
 Here are examples of the kinds of questions that might be asked. This is not intended to be a sample exam; it does not cover all topics you might be asked a question about, it is just providing some example questions.
 
@@ -14,8 +14,8 @@ Here are examples of the kinds of questions that might be asked. This is not int
 
 4. The process of gathering the software requirements from customer, analyzing and documenting them is known as *software engineering*. Mark the correct answer with an X inside the brackets.
 
-  - [ ] True
-  - [ ] False
+  	- [ ] True
+  	- [ ] False
   
 
 5. What estimate should the development team go with if a user story estimate and a task estimate don't agree and why?
@@ -26,23 +26,23 @@ Here are examples of the kinds of questions that might be asked. This is not int
 
 7. What are two main causes of complexity? Mark the correct answer with an X inside the brackets.
 
-  - [ ] Obscurity and modularity
-  - [ ] Change amplification and cognitive load
-  - [ ] Obscurity and dependencies
-  - [ ] Dependencies and modularity
+  	- [ ] Obscurity and modularity
+  	- [ ] Change amplification and cognitive load
+  	- [ ] Obscurity and dependencies
+  	- [ ] Dependencies and modularity
 
 
 8. Consider a task of creating a [Door Dash](https://www.doordash.com/) type of a software.
 
-  (a) Give an example of a requirement for this system.
+  	(a) Give an example of a requirement for this system.
   
-  (b) Convert this requirement to a user story. Does it satisfy INVEST criteria?
+  	(b) Convert this requirement to a user story. Does it satisfy INVEST criteria?
   
-  (c) Convert this user story to specific tasks.
+  	(c) Convert this user story to specific tasks.
   
-  (d) For one of the tasks, specify the priority and an estimate. Justify the answers given here.
+  	(d) For one of the tasks, specify the priority and an estimate. Justify the answers given here.
   
-  (e) Assuming only the task listed above, calculate velocity. Provide all assumptions made, including but not limited to the number of work days and team size. 
+  	(e) Assuming only the task listed above, calculate velocity. Provide all assumptions made, including but not limited to the number of work days and team size. 
 
 
 9. Consider the following code snippet:
