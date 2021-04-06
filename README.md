@@ -50,7 +50,7 @@ The exam will cover all material up through Tuesday, 6 April. The topics covered
   
 Questions will be aimed at basic understanding of concepts and the ability to apply them in concrete examples.
 
-The exam will contain 12 questions, with two of these questions consisting of multiple parts. Question types will include:
+The exam will contain 12 questions, with about two of these questions consisting of multiple parts. Question types will include:
 
 - Short and long answer - the majority of the questions.
 - Multiple choice and True/false - a small minority of questions.

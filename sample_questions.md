@@ -59,7 +59,7 @@ Here are examples of the kinds of questions that might be asked. This is not int
   }
   ```
 
-  Using SRP analysis, identify any violates to this principle. Explain your answer.
+  Using SRP analysis, identify one violation to this principle. Explain your answer.
   
   
 10. Consider the following code snippet:
