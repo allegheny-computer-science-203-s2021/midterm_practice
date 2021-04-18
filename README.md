@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The exam will be released at 8:30am on Thursday, 8 April via GitHub. It will be due by midnight on the same day, 8th of April 2021\. Following the process for lab assignments, you will be given a GitHub Classroom assignment link via Slack, you can then accept the assignment, clone the `midterm` repository, and find `midterm.md` file, which will contain the exam questions. You are to type your answers directly in this Markdown file. No other exam submission format will be accepted. Continuous Integration will not be used in this repository. You should commit and push your work frequently. The last commit before the due time of midnight on April 8th will be graded.
+The exam will be released at <span style="color:red">8:30am on Thursday, 8 April</span> via GitHub. It will be due by midnight on the same day, 8th of April 2021\. Following the process for lab assignments, you will be given a GitHub Classroom assignment link via Slack, you can then accept the assignment, clone the `midterm` repository, and find `midterm.md` file, which will contain the exam questions. You are to type your answers directly in this Markdown file. No other exam submission format will be accepted. Continuous Integration will not be used in this repository. You should commit and push your work frequently. The last commit before the due time of midnight on April 8th will be graded.
 
 The exam is open notes (hand written, typed, slides, programs, book). You are to abide by the college's Honor Code policy and the course's Code of Conduct while working on the exam. * This is an individual lab, answers similar to each other will be taken as a sign of a violation of the Honor Code.*
 
